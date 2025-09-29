@@ -1,0 +1,5 @@
+const phonebook = [
+  { name: 'Maksim', phone: '+380996667711' },
+  { name: 'Oleksandr Tuhanskykh', phone: '+380777777777' },
+  { name: 'NN', phone: '+38055337774' }
+];
